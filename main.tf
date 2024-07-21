@@ -1,6 +1,5 @@
 provider "google" {
   project = "seraphic-beacon-430114-k3"
-  credentials = ""
   region  = var.region
 }
 

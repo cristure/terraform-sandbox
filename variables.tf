@@ -1,11 +1,11 @@
 variable "region" {
   type = string
-  default = "eu-central2"
+  default = "europe-central2"
 }
 
 variable "zone" {
   type = string
-  default = "eu-central2-a"
+  default = "europe-central2-a"
 }
 
 variable "vpc_network_name" {
